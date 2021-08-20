@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+h2 {
+    color: red;
+    font-size: 32pt;
+}
+    
+ul li {
+    text-align: left;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 14pt;
+    padding: 2pt;
+    list-style-type: none;
+}
